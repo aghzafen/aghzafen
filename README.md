@@ -1,4 +1,4 @@
-[![Header](https://github.com/aghzafen/aghzafen/raw/master/header.gif)](https://www.aghzafen.dev/)
+[![Header](https://github.com/aghzafen/aghzafen/blob/main/header.gif?raw=true)](https://www.aghzafen.dev/)
 
 
 ### Hi, I'm Aghzafen:
