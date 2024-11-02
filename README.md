@@ -1,4 +1,4 @@
-[![Header](https://github.com/aghzafen/aghzafen/blob/main/header.gif?raw=true)](https://www.aghzafen.dev/)
+[![Header](https://github.com/aghzafen/aghzafen/blob/main/header_wide_bw.gif?raw=true)](https://www.aghzafen.dev/)
 
 
 ### Hi, I'm Aghzafen:
@@ -10,14 +10,14 @@
 - Ask me about Mathematics, Algorithms, C++ and Python!
 - You can reach me with the links below
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.aghzafen@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhail-aghzafen/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.aghzafen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhail-aghzafen/)
 [![aghzafen.dev](https://img.shields.io/badge/-AGHZAFEN.DEV-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.aghzafen.dev/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aghzafen)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10881295/souhail-aghzafen?tab=profile)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aghzafen)
-[![StackExchange](https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/15077705/souhail-aghzafen)
-[![StackShare](http://img.shields.io/badge/Quant_stack-666666.svg?style=for-the-badge)](https://stackshare.io/aghzafen/quant)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aghzafen)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10881295/souhail-aghzafen?tab=profile)
+[![Youtube](https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aghzafen)
+[![StackExchange](https://img.shields.io/badge/StackExchange-000000?&style=for-the-badge&logo=StackExchange&logoColor=white)](https://stackexchange.com/users/15077705/souhail-aghzafen)
+[![StackShare](http://img.shields.io/badge/Quant_stack-000000.svg?style=for-the-badge)](https://stackshare.io/aghzafen/quant)
 
 
 ### Main Languages I use
@@ -32,24 +32,25 @@
 
 ### Some of the technologies I have worked with
 
-![Git](https://img.shields.io/badge/-Git-222222?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=Jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
 ### Some of my favorite open source projects
 
-[![QuantLib](https://img.shields.io/badge/-QuantLib-444444?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)](https://github.com/lballabio/QuantLib)
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
+[![QuantLib](https://img.shields.io/badge/-QuantLib-000000?style=for-the-badge&logo=graph&logoColor=white)](https://github.com/lballabio/QuantLib)
+[![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
 
 
 ### Github stats
 
-![Aghzafen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aghzafen&theme=swift&show_icons=true)
+![Aghzafen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aghzafen&theme=graywhite&show_icons=true)
 
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{aghzafen}/count.svg)
+
